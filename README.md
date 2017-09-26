@@ -3,3 +3,6 @@ This project is my master thesis. As I am working on publishing the paper, here 
 This project consists of 2 main stages:
 1) Deep feature extraction
 2) Classification using Probabilistic graphical models
+
+Here is the link for my Master thesis, "Human Gaze Estimation using CNN and CRF" (in persian) <br/ >
+
